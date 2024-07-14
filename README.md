@@ -1,3 +1,5 @@
+
+![2024-07-14 (7)](https://github.com/user-attachments/assets/a894514e-b823-4112-833c-32656d214d5e)
 # Project-4-Feature-Extraction-and-Price-Prediction-for-Mobile-Phones
 Overview:-
 This project aims to predict the prices of mobile phones based on their features using machine learning techniques. It involves extracting relevant features from mobile phone datasets and building predictive models to estimate their market prices.
@@ -16,11 +18,11 @@ Outline steps taken to clean the data (handling missing values, outliers, etc.).
 Mention any transformations or normalization applied to the features.
 
 Modeling:-
-Specify the machine learning models used for price prediction (e.g., linear regression, decision trees, neural networks).
-Discuss reasons for choosing specific models and any adjustments made (e.g., hyperparameter tuning).
+*Specify the machine learning models used for price prediction (e.g., linear regression, decision trees,gradiant boosting,random forest).
+*specific models and any adjustments made (e.g., hyperparameter tuning).
 
 Evaluation:-
-Describe the metrics used to evaluate model performance (e.g., MAE, MSE, R-squared).
+Describe the metrics used to evaluate model performance (e.g., MAE, MSE, R-squared). on application linear regression,decision tree,gradiant boosting,random forest.
 Present evaluation results and discuss the model's effectiveness.
 
 Deployment:-
